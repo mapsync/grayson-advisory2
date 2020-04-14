@@ -1,14 +1,15 @@
 ---
 title: "Contact"
 contact_entries:
-  - heading: Location
+  - heading: Address
     text: |
-      3250 Blazer Parkway  
-      Lexington, KY 40509
-  - heading: Phone, Fax & Email
+      671 South State Hwy 7  
+      Grayson, KY 41143
+  - heading: Phone, Fax & Website
     text: |
-      (859) 264-7500 - Office  
-      (859) 264-7501 - Fax  
-      info@cdpengineers.com
+      (606) 474-7569 - Office  
+      (606) 474-5731 - After Hours  
+      (606) 474-2662 - Fax  
+      http://www.graysonutilities.com
 ---
 
