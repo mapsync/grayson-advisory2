@@ -1,0 +1,17 @@
+baseurl = "/"
+languageCode = "en-us"
+languageLang = "en"
+title = "Grayson Utilities Commission"
+
+[params]
+    Id = "graysonutilities"
+    Facebook = "https://www.facebook.com/cdpky"
+    BillPay = "https://commercialpayments.com/eprocessing_integrations/appalachian/balance_inquiry.php"
+
+[blackfriday]
+    extensions = ["hardLineBreak"]
+
+# RSS, categories and tags disabled for an easy start
+# See configuration options for more details: 
+# https://gohugo.io/getting-started/configuration/#toml-configuration
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
