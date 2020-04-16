@@ -4,6 +4,10 @@
 
 @custom-media --breakpoint-large screen and (min-width: 60em);
 
+#map {
+    width:100%;
+    height:calc(100vh - 3.2rem);
+}
 
 .show-xs {
   display: none !important;
@@ -16,10 +20,7 @@
     .show-xs {
         display: block !important;
     }
-}
-
-@supports (-webkit-touch-callout: none) {
-  .admin {
-    display: none; 
-  }
+    #map {
+        height:calc(100vh - 4rem);
+    }
 }

@@ -5,7 +5,10 @@ title = "Grayson Utilities Commission"
 
 [params]
     Id = "graysonutilities"
-    Facebook = "https://www.facebook.com/cdpky"
+    Color = "#97ca46"
+    AppTitle = "GUC Advisory"
+    Description = "Alerts and interactive map to serve the customers of the Grayson Utilities Commission"
+    Facebook = ""
     BillPay = "https://commercialpayments.com/eprocessing_integrations/appalachian/balance_inquiry.php"
 
 [blackfriday]
