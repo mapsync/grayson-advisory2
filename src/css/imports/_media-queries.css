@@ -17,3 +17,9 @@
         display: block !important;
     }
 }
+
+@supports (-webkit-touch-callout: none) {
+  .admin {
+    display: none; 
+  }
+}
