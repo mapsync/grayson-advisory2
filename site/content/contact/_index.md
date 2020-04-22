@@ -5,6 +5,12 @@ contact_entries:
     text: |
       671 South State Hwy 7  
       Grayson, KY 41143
+  - heading: Phone, Fax & Website
+    text: |
+      (606) 474-7569 - Office  
+      (606) 474-5731 - After Hours  
+      (606) 474-2662 - Fax  
+      http://www.graysonutilities.com
   - heading: Information
     text: |
       Ramona Salyer, Commissioner Chairman  
@@ -55,12 +61,5 @@ contact_entries:
       [Application to Start Utility Service](http://graysonutilities.com/files/128091634.pdf)\
       [Water Leak Adjustment Form](http://graysonutilities.com/files/110077951.pdf)\
       [Pool Adjustment Form](http://graysonutilities.com/files/110077534.pdf)
-  - heading: Phone, Fax & Website
-    text: |
-      (606) 474-7569 - Office  
-      (606) 474-5731 - After Hours  
-      (606) 474-2662 - Fax  
-      http://www.graysonutilities.com
-      Ramona Salyer, Commissioner Chairman
 ---
 
