@@ -12,7 +12,7 @@ contact_entries:
       (606) 474-2662 - Fax  
       http://www.graysonutilities.com
       Ramona Salyer, Commissioner Chairman
-  - heading: Phone, Fax & Website
+  - heading: Information
     text: |
       Ramona Salyer, Commissioner Chairman  
 
