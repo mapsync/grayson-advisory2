@@ -1,6 +1,6 @@
 ---
 title: GAS OUTAGE
-draft: false
+draft: true
 date: 2020-04-16T17:20:28.727Z
 description: Gas outage around Nursing Home area
 ---
