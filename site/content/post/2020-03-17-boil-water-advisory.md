@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Boil Water Advisory
-draft: false
+draft: true
 date: 2020-04-29T12:30:28.064Z
 description: A Boil Water Advisory has been issued for Indian Hills area.
 ---
