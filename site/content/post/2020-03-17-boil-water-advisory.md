@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 title: Boil Water Advisory
-date: 2020-04-01T13:40:28.064Z
 draft: true
+date: 2020-04-01T13:40:28.064Z
 description: >
   A Boil Water Advisory has been issued for Indian Hills, and all customers on
-  Blackfoot Lane, Cherokee Dr. Bald Eagle Dr, and Cloverleaf Trailer Park, until
-  further notice.
+  Blackfoot Lane, Cherokee Dr., Bald Eagle Dr, and Cloverleaf Trailer Park,
+  until further notice.
 ---
 A Boil Water Advisory has been issued for Grayson Utilities customers in Indian Hills, and all customers on Blackfoot Lane, Cherokee Dr. Bald Eagle Dr, and Cloverleaf Trailer Park, until further notice. 
 
