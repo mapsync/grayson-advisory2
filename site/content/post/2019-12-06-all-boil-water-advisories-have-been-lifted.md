@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: All Boil Water Advisories HAVE BEEN LIFTED
-draft: false
+draft: true
 date: 2020-05-01T17:24:56.763Z
 description: All Boil Water Advisories HAVE BEEN LIFTED!
 ---
