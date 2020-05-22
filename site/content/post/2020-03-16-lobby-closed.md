@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Lobby Closed but DRIVE-THRU OPEN
+draft: true
 date: 2020-04-02T14:29:08.646Z
 description: Lobby Closed at Grayson Utilities Commission
 ---
