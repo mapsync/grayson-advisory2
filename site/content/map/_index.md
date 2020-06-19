@@ -1,8 +1,8 @@
 ---
-center: '{"type":"Point","coordinates":[-82.952601,38.3460823]}'
+center: '{"type":"Point","coordinates":[-82.9486406,38.306928]}'
 zoom: 13
-label: ""
-description: "Indian Hills, and all customers on Blackfoot Lane, Cherokee Dr.
-  Bald Eagle Dr, and Cloverleaf Trailer Park, until further notice. "
-location: '{"type":"Polygon","coordinates":[[[-82.942136,38.347538],[-82.9481442,38.3506848],[-82.9542382,38.3465485],[-82.9544313,38.3440914],[-82.9536588,38.3440914],[-82.9529722,38.3460436],[-82.9480798,38.3473562],[-82.9453847,38.3465249],[-82.9436038,38.3476524],[-82.9425094,38.3472653],[-82.942136,38.347538]]]}'
+label: Landsdowne Subdivision Boil Water Advisory
+description: Landsdowne Subdivision, Vincent & Jackson roads and Hwy 773 from
+  Hwy 7 to Wells residence between the bridges.
+location: '{"type":"Polygon","coordinates":[[[-82.9551601,38.3147684],[-82.9465771,38.3143194],[-82.9436016,38.3028251],[-82.956419,38.2977059],[-82.9588223,38.3109072],[-82.9551601,38.3147684]]]}'
 ---
