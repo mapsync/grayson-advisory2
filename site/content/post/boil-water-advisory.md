@@ -1,6 +1,6 @@
 ---
 title: Boil Water Advisory--LIFTED
-draft: false
+draft: true
 date: 2020-06-23T15:38:05.088Z
 description: Boil Water Advisory HAS BEEN LIFTED
 ---
