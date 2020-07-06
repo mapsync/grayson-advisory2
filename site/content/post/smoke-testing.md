@@ -12,4 +12,4 @@ The 200 block of East  2nd Street in a westerly direction to the end of the sewe
 
 The alley on Main Street beginning at the Commercial Bank continuing West to Landsdowne Ave.
 
-See Map Area 1
+[See Map Area 1](https://graysonutilities.geosync.cloud/admin/#/collections/pages/entries/map)
