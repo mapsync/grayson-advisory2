@@ -15,3 +15,5 @@ The alley on Main Street beginning at the Commercial Bank continuing West to Lan
 [See Map Area 1](https://graysonutilities.geosync.cloud/admin/#/collections/pages/entries/map)
 
 [See Map Area 2](https://graysonutilities.geosync.cloud/admin/#/collections/pages/entries/map)
+
+[See Map Area 3](https://graysonutilities.geosync.cloud/admin/#/collections/pages/entries/map)
