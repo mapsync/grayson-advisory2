@@ -11,3 +11,5 @@ Smoke testing the Grayson Sewer System will begin tomorrow, Tuesday July 7th and
 The 200 block of East  2nd Street in a westerly direction to the end of the sewer line on the 400 block of West 2nd Street.
 
 The alley on Main Street beginning at the Commercial Bank continuing West to Landsdowne Ave.
+
+See Map Area 1
