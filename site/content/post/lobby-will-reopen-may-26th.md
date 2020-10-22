@@ -1,6 +1,6 @@
 ---
 title: Lobby is now open
-draft: false
+draft: true
 date: 2020-06-03T16:57:46.723Z
 description: The lobby has been open since Tuesday May 26th with social
   distancing protocols being observed (see below).
