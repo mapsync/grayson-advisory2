@@ -1,6 +1,6 @@
 ---
 title: Boil Water Advisory
-draft: false
+draft: true
 date: 2020-10-22T16:19:03.404Z
 description: Boil water advisory South Hwy 1661 from the water plant to end of line.
 ---
