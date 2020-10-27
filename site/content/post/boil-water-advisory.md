@@ -1,9 +1,13 @@
 ---
 title: Boil Water Advisory--LIFTED
-draft: true
-date: 2020-06-23T15:38:05.088Z
+draft: false
+date: 2020-10-27T16:11:32.922Z
 description: Boil Water Advisory HAS BEEN LIFTED
 ---
-LIFTED---A Boil Water Advisory has been issued for Highway 1661 from S St Hwy 7 to the end of the line including all side roads, which also includes Horn Lane, Wolfe Creek Rd, and Baiercliff Rd, until further notice
+LIFTED--
 
-[See Map](https://graysonutilities.geosync.cloud/map/)
+Boil water advisory South Hwy 1661 from the water plant to the end of the line. Including Pine Ridge Drive, Walnut Lane, Schoolhouse Hollow, Little Sandy Acres, Sandy Hill Drive, Steele Road, Pope Hollow, Lynnwood Subdivision until further notice.
+
+
+
+[](https://graysonutilities.geosync.cloud/map/)
