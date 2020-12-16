@@ -1,7 +1,7 @@
 ---
 title: Smoke Testing Postponed
 draft: false
-date: 2020-12-14T17:58:38.491Z
+date: 2020-12-16T15:03:12.896Z
 description: Smoke Testing of the Sanitary Sewers has been postponed and will
   begin December 17, 2020.
 ---
