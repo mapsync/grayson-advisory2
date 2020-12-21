@@ -1,6 +1,6 @@
 ---
 title: Christmas hours
-draft: true
+draft: false
 date: 2020-12-21T14:48:42.756Z
 description: Office will close at noon December 23rd until December 28th at 8:00am.
 image: /img/very-merry-christmas-tree.jpg
