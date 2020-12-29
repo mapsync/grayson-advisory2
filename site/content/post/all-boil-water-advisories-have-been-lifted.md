@@ -1,6 +1,6 @@
 ---
 title: All boil water advisories have been lifted
-draft: false
+draft: true
 date: 2020-12-16T15:33:17.724Z
 description: All boil water advisories have been lifted.
 ---
