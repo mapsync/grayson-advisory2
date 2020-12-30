@@ -1,5 +1,5 @@
 ---
-title: Hours for New Years Day
+title: Closed New Years Day
 draft: false
 date: 2020-12-30T14:10:02.492Z
 description: "GUC office will be closed New Years Day.  "
