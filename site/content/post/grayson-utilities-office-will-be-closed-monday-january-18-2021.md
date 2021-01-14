@@ -1,5 +1,5 @@
 ---
-title: Grayson Utilities Office will be closed Monday, January 18, 2021.
+title: Closed Monday, January 18, 2021.
 draft: false
 date: 2021-01-14T17:48:22.139Z
 description: "The Grayson Utilities Office will be closed Monday, January 18, 2021. "
