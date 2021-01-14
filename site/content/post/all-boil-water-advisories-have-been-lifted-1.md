@@ -1,7 +1,7 @@
 ---
-title: All Boil Water Advisories have been lifted.
+title: Boil Water Advisories have been lifted for US 60 East & Carroll Circle.
 draft: false
 date: 2021-01-14T17:42:20.120Z
-description: All Boil Water Advisories have been lifted.
+description: Boil Water Advisories have been lifted for US 60 East & Carroll Circle.
 ---
-All boil water advisories have been lifted.
+Boil water advisories have been lifted US 60 East & Carroll Circle.
