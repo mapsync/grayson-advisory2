@@ -1,7 +1,7 @@
 ---
-title: All Boil Water Advisories has been lifted
+title: Boil Water Advisories for Falls Lane & Falls Branch LIFTED
 draft: false
-date: 2020-12-08T13:42:27.450Z
-description: All Boil Water Advisories has been lifted.
+date: 2021-01-16T17:42:00.000Z
+description: Boil Water Advisories for Falls Lane & Falls Branch have been LIFTED
 ---
-All Boil Water Advisories haves been lifted.
+Boil Water Advisories for Falls Lane & Falls Branch have been LIFTED
