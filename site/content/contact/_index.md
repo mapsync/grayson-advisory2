@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/favicon-32x32.png
+logo: /img/android-chrome-192x192.png
 contact_entries:
   - heading: Address
     text: |
