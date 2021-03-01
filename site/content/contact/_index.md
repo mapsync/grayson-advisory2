@@ -14,10 +14,10 @@ contact_entries:
       http://www.graysonutilities.com
   - heading: Information
     text: >
-      Ramona Salyer, Commissioner Chairman  
+      Willis Kelley, Commissioner Chairman  
 
 
-      Willis Kelley, Commissioner  
+      Ramona Salyer, Commissioner  
 
 
       John Brooks, Commissioner  
