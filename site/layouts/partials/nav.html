@@ -9,7 +9,7 @@ justify-content:center;">
 	{{ $isActiveContact := "" }}
 	{{ if eq .RelPermalink "/" }}
 		{{ $isActiveHome = "active" }}
-	{{ else if eq .RelPermalink "/map/" }}
+	{{ else if eq .RelPermalink "/arcgis/" }}
 		{{ $isActiveMap = "active" }}
 	{{ else if eq .RelPermalink "/contact/"}}
 		{{ $isActiveContact = "active" }}
