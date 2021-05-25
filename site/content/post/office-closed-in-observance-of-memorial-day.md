@@ -1,8 +1,8 @@
 ---
 title: OFFICE CLOSED IN OBSERVANCE OF MEMORIAL DAY
 draft: true
-date: 2020-05-22T17:27:19.129Z
-description: The office will be closed May 25th, in observance of Memorial Day.
-image: /img/memorial-day-eagle.jpg
+date: 2021-05-25T16:37:32.935Z
+description: The office will be closed May 31st, in observance of Memorial Day.
+image: /img/memorial-day-headstone.jpg
 ---
-The GUC office will be closed Monday May 25th, in observance of Memorial Day.
+The GUC office will be closed Monday May 31st, in observance of Memorial Day.
