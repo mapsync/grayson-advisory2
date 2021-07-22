@@ -7,12 +7,7 @@
 	        {{ range .Params.contact_entries }}
 				<div style="flex: 0 0 50%;padding:0 0.4rem;">
 					<h4 class="f4 b lh-title mb2 mt3 primary" style="text-align:center;">{{ .heading }}</h4>
-					<form action="https://formcarry.com/s/sbSIMAzdkE5" method="POST" accept-charset="UTF-8">
-					<input type="text" name="firstName">
-					<input type="text" name="lastName">
-					<input type="email" name="email">
-					<input type="tel" name="cellNumber">
-					<input type="hidden" name="_gotcha"><!-- use this to prevent spam -->
+					
 					<p>{{ .text | markdownify }}</p>
 				</div>
 			{{ end }}
