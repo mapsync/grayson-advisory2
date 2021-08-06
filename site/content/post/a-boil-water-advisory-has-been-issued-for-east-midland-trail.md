@@ -1,5 +1,5 @@
 ---
-title: The boil water advisory has beenLIFTED for East Midland Trail.
+title: The boil water advisory has been LIFTED for East Midland Trail.
 draft: false
 date: 2021-08-06T14:08:03.595Z
 description: The Boil Water Advisory has been LIFTED for the East Midland Trail
