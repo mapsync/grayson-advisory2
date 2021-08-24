@@ -1,6 +1,6 @@
 ---
 title: GAS OUTAGE ON 773
-draft: false
+draft: true
 date: 2021-07-21T16:54:46.947Z
 description: "There is a gas outage for customers on 773. Service has been shut off.  "
 ---
