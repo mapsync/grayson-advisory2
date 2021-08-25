@@ -6,4 +6,4 @@ description: A boil water advisory has been issued for Hidden Hills and Ky St. H
 ---
 A boil water advisory has been issued for Hidden Hills and Ky St. Hwy 1959.  
 
-See map....Click and zoom
+See map....Click  on toolbar and zoom in
