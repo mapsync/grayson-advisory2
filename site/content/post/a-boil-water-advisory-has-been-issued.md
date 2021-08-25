@@ -9,4 +9,4 @@ A Boil Water Advisory has been issued for Robinson St, Stone St, Keffer St, 1320
 
 SEE MAP
 
-Click map above and zoom in.
+Click map in toolbar above and zoom in.
