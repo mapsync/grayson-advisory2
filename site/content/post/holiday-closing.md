@@ -1,7 +1,7 @@
 ---
 title: Office Closed Labor Day
-draft: true
-date: 2021-09-02T13:20:42.732Z
+draft: false
+date: 2021-09-03T12:18:14.650Z
 description: GUC Office Closed for Labor Day Holiday
 image: /img/happy-labor-day-clip-art-glittercomments-labor-day.jpg
 ---
