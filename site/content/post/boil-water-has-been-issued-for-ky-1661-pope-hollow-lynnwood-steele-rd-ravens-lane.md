@@ -7,3 +7,5 @@ description: A boil water has been issued for KY 1661, Pope Hollow, Lynnwood
   subdivision, Steele Rd, & Ravens Lane.
 ---
 A boil water has been issued for KY 1661, Pope Hollow, Lynnwood subdivision, Steele Rd, & Ravens Lane.
+
+To see map, click on the map icon on the toolbar.
