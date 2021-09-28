@@ -3,7 +3,7 @@ title: Hydrant flushing
 draft: true
 date: 2021-09-27T16:29:11.702Z
 description: Fire Hydrant flushing will start on Monday, October 4th through
-  Tuesday, October 19, 2012.
+  Tuesday, October 19, 2021.
 image: /img/waternainflush.jpg
 ---
 The Grayson Utilities Commission will flush fire Hydrants starting on Monday, Octobr 4th through Tuesday, October 19, 2021. All areas will be affected.
