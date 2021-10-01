@@ -1,7 +1,7 @@
 ---
 title: Hydrant flushing
-draft: true
-date: 2021-09-27T16:29:11.702Z
+draft: false
+date: 2021-10-01T13:28:28.309Z
 description: Fire Hydrant flushing will start on Monday, October 4th through
   Tuesday, October 19, 2021.
 image: /img/waternainflush.jpg
