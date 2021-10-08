@@ -7,4 +7,4 @@ description: A boil water advisory has been issued for Townsend Ave, Kentucky
 ---
 A boil water advisory has been issued for Townsend Ave, Kentucky Ave, & Kristy Dr.
 
-SEE MAP
+SEE MAP using map icon at top
