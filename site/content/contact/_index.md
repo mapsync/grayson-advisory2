@@ -44,7 +44,6 @@ contact_entries:
       Email: billingclerk@graysonutilities.com  
 
 
-
       Tally Harris, Head Water Treatment Plant Operator  
 
       199 Water Plant Road  
