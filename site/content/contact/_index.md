@@ -44,10 +44,6 @@ contact_entries:
       Email: billingclerk@graysonutilities.com  
 
 
-      Harlena Huff, Secretary/Warehouse Clerk  
-
-      Email: warehouseclerk@graysonutilities.com  
-
 
       Tally Harris, Head Water Treatment Plant Operator  
 
