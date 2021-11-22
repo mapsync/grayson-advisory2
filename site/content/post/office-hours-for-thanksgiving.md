@@ -1,5 +1,5 @@
 ---
-title: Office hours for Thanksgiving
+title: Thanksgiving Office hours
 draft: true
 date: 2021-11-18T13:49:08.769Z
 description: "Grayson Utilities office will closed at noon on November 24th and
