@@ -6,7 +6,7 @@ description: "Grayson Utilities office will closed at noon on November 24th and
   reopen November 29th at 8 a.m. "
 image: /img/blessed-thanksgiving.jpg
 ---
-Grayson Utilities office will close at noon on November 24th and reopen on Monday, November 29th at 8 a.m.
+Grayson Utilities office will close at noon on Wednesday, November 24th and reopen on Monday, November 29th at 8 a.m.
 
 Grayson Sanitation will pick up Thursday's Route on Friday.
 
