@@ -10,4 +10,4 @@ Grayson Utilities office will close at noon on Wednesday, December 22nd and reop
 
 Have a Merry & Blessed Christmas!
 
-Grayson Sanition will have the normal schedule, the office will be open 12/24/21 9-Noon.
+Grayson Sanition will have the normal schedule. The office will be open 12/24/21 9-Noon.
