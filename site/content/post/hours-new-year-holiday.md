@@ -9,4 +9,4 @@ Grayson Utilities office will be closed Friday, December 31st, in observance of 
 
 HAVE A SAFE, HAPPY, & BLESSED NEW YEAR!!!
 
-Grayson Sanitation will run on regular schedule.
+\*Grayson Sanitation will run on regular schedule.
