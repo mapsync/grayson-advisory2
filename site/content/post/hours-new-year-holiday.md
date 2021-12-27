@@ -1,7 +1,7 @@
 ---
 title: New Year's Holiday hours
 draft: true
-date: 2021-12-21T16:40:00.295Z
+date: 2021-12-27T18:23:27.401Z
 description: GUC office will be closed Friday, December 31.
 image: /img/2022-new-year.png
 ---
