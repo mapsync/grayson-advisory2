@@ -1,11 +1,11 @@
 ---
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2022-01-18T14:27:56.684Z
+date: 2022-01-21T17:07:21.723Z
 description: >
-  A Boil Water Advisory has been issued for Wolfe Creek, Landscape Dr, and KY
+  A Boil Water Advisory has been LIFTED for Wolfe Creek, Landscape Dr, and KY
   1661.
 ---
-A Boil Water Advisory has been issued for Wolfe Creek, Landscape Dr, and KY 1661.
+A Boil Water Advisory has been LIFTED for Wolfe Creek, Landscape Dr, and KY 1661.
 
-[See map icon above](https://arcg.is/COqTL1)
+[](https://arcg.is/COqTL1)
