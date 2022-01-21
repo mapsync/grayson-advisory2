@@ -1,10 +1,10 @@
 ---
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2022-01-19T16:16:03.440Z
-description: Boil Water Advisory has been issued for Ky 2 & 7
+date: 2022-01-21T17:08:56.227Z
+description: Boil Water Advisory has been LIFTED for Ky 2 & 7
 ---
-[](https://arcg.is/1GOHfO)Boil Water Advisory has been issued for 10 customers on Ky 2 & 7. Water service will be restored today.
+[](https://arcg.is/1GOHfO)Boil Water Advisory has been LIFTED for 10 customers on Ky 2 & 7. Water service will be restored today.
 
 [See map for affected area.](https://arcg.is/1GOHfO)
 
