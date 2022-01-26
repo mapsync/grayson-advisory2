@@ -7,4 +7,4 @@ description: A Boil water advisory has been issued for Shadow wood Drive, Alpine
 ---
 A Boil water advisory has been issued for Shadow wood Drive, Alpine Hill and White Oak Dr.
 
-See map icon above for affected area.
+[See map for affected area.](https://arcg.is/1nOXz)
