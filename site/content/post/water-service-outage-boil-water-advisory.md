@@ -1,7 +1,7 @@
 ---
 title: WATER SERVICE OUTAGE & BOIL WATER ADVISORY
 draft: true
-date: 2022-01-26T19:44:41.044Z
+date: 2022-01-28T20:10:03.341Z
 description: 9 a.m. Tuesday, February 1st, the water service to Pope Hollow, KY
   1661, Sandy Hill Drive, Service Station Drive, Lynnwood Subdivision, Steele
   Road, and Ravens Lane will be off while a water main is relocated.  Those
