@@ -1,7 +1,7 @@
 ---
 title: Hydrant Testing & Flushing
-draft: true
-date: 2022-01-26T19:44:07.899Z
+draft: false
+date: 2022-01-31T13:33:02.734Z
 description: On Tuesday, February 1st, Hydrant testing & flushing will begin in
   the Leatherwood, Ky 784  and along  KY 2
 image: /img/waternainflush.jpg
