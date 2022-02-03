@@ -1,11 +1,9 @@
 ---
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2022-02-01T20:19:19.210Z
-description: A Boil Water has been issued for Pope Hollow, KY 1661, Sandy Hill
+date: 2022-02-03T18:33:43.339Z
+description: A Boil Water has been LIFTED for Pope Hollow, KY 1661, Sandy Hill
   Drive, Service Station Drive, Lynnwood Subdivision, Steele Road and Ravens
   Lane.
 ---
-A Boil Water has been issued for Pope Hollow, KY 1661, Sandy Hill Drive, Service Station Drive, Lynnwood Subdivision, Steele Road and Ravens Lane.
-
-[SEE AFFECTED AREA](https://arcg.is/aT10K)
+A Boil Water has been LIFTED for Pope Hollow, KY 1661, Sandy Hill Drive, Service Station Drive, Lynnwood Subdivision, Steele Road and Ravens Lan
