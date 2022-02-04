@@ -6,3 +6,5 @@ description: A Boil Water Advisory has been issued for  KY 773, Coal Camp Rd,
   and Campbell Hollow.
 ---
 A Boil Water Advisory has been issued for KY 773, Coal Camp Rd, and Campbell Hollow.
+
+[See affected area](https://arcg.is/1C0Gj0)
