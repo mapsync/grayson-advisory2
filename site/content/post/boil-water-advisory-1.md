@@ -1,10 +1,10 @@
 ---
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2022-02-04T15:30:38.578Z
-description: A Boil Water Advisory has been issued for  KY 773, Coal Camp Rd,
+date: 2022-02-08T19:22:24.683Z
+description: A Boil Water Advisory has been LIFTED for  KY 773, Coal Camp Rd,
   and Campbell Hollow.
 ---
-A Boil Water Advisory has been issued for KY 773, Coal Camp Rd, and Campbell Hollow.
+A Boil Water Advisory has been LIFTED for KY 773, Coal Camp Rd, and Campbell Hollow.
 
-[See affected area](https://arcg.is/1C0Gj0)
+[](https://arcg.is/1C0Gj0)
