@@ -7,4 +7,4 @@ description: A Boil Water Advisory has been LIFTED for Tygarts Creek Rd, Round
 ---
 A Boil Water Advisory has been LIFTED for Tygarts Creek Rd, Round Dog Rd, & Shaws Branch.
 
-[See affected area.](https://arcg.is/0iD4fH0)
+[](https://arcg.is/0iD4fH0)
