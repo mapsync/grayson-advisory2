@@ -6,3 +6,5 @@ description: A Boil Water Advisory has been issued for 315 Bradford St to
   Townsend Ave, Christie Dr, Kentucky Ave. & Walnut Dr
 ---
 A Boil Water Advisory has been issued for 315 Bradford St to Townsend Ave, Christie Dr, Kentucky Ave. & Walnut Dr
+
+[See affected area](https://arcg.is/1TSzme)
