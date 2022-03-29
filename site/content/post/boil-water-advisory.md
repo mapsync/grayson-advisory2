@@ -1,10 +1,10 @@
 ---
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2022-03-24T17:34:34.326Z
-description: A Boil Water Advisory has been issued for 315 Bradford St to
-  Townsend Ave, Christie Dr, Kentucky Ave. & Walnut Dr
+date: 2022-03-29T18:35:24.022Z
+description: Boil Water Advisory has been LIFTED for 315 Bradford St to Townsend
+  Ave, Christie Dr, Kentucky Ave. & Walnut Dr
 ---
-A Boil Water Advisory has been issued for 315 Bradford St to Townsend Ave, Christie Dr, Kentucky Ave. & Walnut Dr
+Boil Water Advisory has been LIFTED for 315 Bradford St to Townsend Ave, Christie Dr, Kentucky Ave. & Walnut Dr
 
-[See affected area](https://arcg.is/1TSzme)
+[](https://arcg.is/1TSzme)
