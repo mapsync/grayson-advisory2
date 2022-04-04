@@ -7,4 +7,4 @@ description: A Boil Water Advisory has been issued for North Highway 7, Cummins
 ---
 A Boil Water Advisory has been issued for North Highway 7, Cummins Hollow, Robin Hill, Bellaire Lane, Blue Bird Lane, & Dale Drive.
 
-See affected area
+[See affected area](https://arcg.is/1fuCLS)
