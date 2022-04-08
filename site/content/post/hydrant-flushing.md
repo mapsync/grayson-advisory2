@@ -1,7 +1,7 @@
 ---
 title: HYDRANT FLUSHING
-draft: true
-date: 2022-04-07T14:33:44.042Z
+draft: false
+date: 2022-04-08T13:38:00.922Z
 description: >
   The Grayson Utilities Commission will flush fire hydrants starting on Monday,
   April 11th through Friday, April 29th, 2022. All areas will be affected.
