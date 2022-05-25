@@ -1,6 +1,6 @@
 ---
 title: CLOSED MONDAY, MAY 30TH
-draft: true
+draft: false
 date: 2022-05-16T14:43:10.210Z
 description: GUC office will be closed Monday, May 30th.
 image: /img/memorial-day-headstone.jpg
