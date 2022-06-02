@@ -1,6 +1,6 @@
 ---
 title: SMART WATER METER CHANGE OUT PROJECT
-draft: true
+draft: false
 date: 2022-06-02T12:10:57.073Z
 description: Meter Change Out Project to Begin June 6, 2022.
 ---
