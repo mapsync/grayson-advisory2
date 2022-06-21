@@ -1,10 +1,11 @@
 ---
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2022-06-16T14:15:59.360Z
-description: A Boil Water Advisory has been issued for 2nd St from Landsdowne
-  West to the end of the street, Malone Lane, Pine Street, & Hall St.
+date: 2022-06-21T13:50:35.833Z
+description: " Boil Water Advisory has been LIFTED for 2nd St from Landsdowne
+  West to the end of the street, Malone Lane, Pine Street, & Hall St. ALSO,
+  Sunset Hill, Satellite Dr, N. Bourbon Hollow, and Oak Ridge"
 ---
-A Boil Water Advisory has been issued for 2nd St from Landsdowne West to the end of the street, Malone Lane, Pine Street, & Hall St.
+Boil Water Advisory has been LIFTED for 2nd St from Landsdowne West to the end of the street, Malone Lane, Pine Street, & Hall St. ALSO Sunset Hill, Satellite Dr, N. Bourbon Hollow, and Oak Ridge 
 
-[See affected area](https://arcg.is/1XPeLO)
+[](https://arcg.is/1XPeLO)
