@@ -1,5 +1,5 @@
 ---
-title: BOIL WATER ADVISOORY
+title: BOIL WATER ADVISORY
 draft: false
 date: 2022-06-22T14:39:54.767Z
 description: "A Boil Water Advisory has been issued for customers in the Midland
