@@ -1,5 +1,5 @@
 ---
-title: WATER OUTAGE/BOIL WATER
+title: BOIL WATER
 draft: false
 date: 2022-06-23T17:14:37.243Z
 description: There is a water outage for Little Sandy Lane, South Ave, Hunters
