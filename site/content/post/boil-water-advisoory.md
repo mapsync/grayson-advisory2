@@ -1,7 +1,7 @@
 ---
 title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2022-06-22T14:39:54.767Z
+date: 2022-06-24T18:11:33.196Z
 description: "A Boil Water Advisory has been LIFTED for customers in the Midland
   Village Subdivision, "
 ---
