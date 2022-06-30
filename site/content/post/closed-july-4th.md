@@ -1,5 +1,5 @@
 ---
-title: CLOSED JULY 4TH
+title: GUC OFFICE CLOSED JULY 4TH
 draft: true
 date: 2022-06-30T12:23:39.950Z
 description: The Grayson Utilities Office will be closed Monday, July 4th.
