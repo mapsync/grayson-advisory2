@@ -1,9 +1,9 @@
 ---
-title: " SCHEDULED WATER SERVICE OUTAGE 9:00 AM TUESDAY, JULY 5TH"
+title: BOIL WATER ADVISORY LIFTED
 draft: false
 date: 2022-07-05T12:25:42.758Z
-description: There will be an outage and boil water advisory, Tuesday, July 5th.
+description: Boil water advisory LIFTED.
 ---
-[](https://arcg.is/1PSjXe0)Beginning at approximately 9 am on Tuesday, July 5th the water service will be off for customers in the following areas:  KY2 & 7, Lower Grassy, Three Prong, KY 784 East, Leatherwood, Zornes Branch, Colen Branch, Copperhead Road, and Buzzard Roost.   Water should be restored within a few hours. When service is restored, there will be a Boil Water Advisory.
+[](https://arcg.is/1PSjXe0)KY2 & 7, Lower Grassy, Three Prong, KY 784 East, Leatherwood, Zornes Branch, Colen Branch, Copperhead Road, and Buzzard Roost. Boil Water Advisory has been LIFTED.
 
 [See affected area](https://arcg.is/1PSjXe0)
