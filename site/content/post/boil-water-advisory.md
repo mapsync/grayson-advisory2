@@ -6,4 +6,4 @@ description: A Boil Water Advisory has been issued for Damron St & Foxcroft  Sub
 ---
 A Boil Water Advisory has been issued for Damron St & Foxcroft  Subdivision
 
-[See affected area.](<A Boil Water Advisory has been issued for Damron St & Foxcroft  Subdivision>)
+[See affected area.](https://arcg.is/0vuaav)
