@@ -1,13 +1,12 @@
 ---
-title: SCHEDULED OUTAGE/BOIL WATER ADVISORY 10 AM 7/25/22
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2022-07-22T19:01:27.962Z
-description: Service Outage scheduled for 10:00 am on Monday, July 25th for Old
-  KY 7 South, School House Hollow, Pine Ridge Drive, Walnut Lane, Little Sandy
-  Acres, Service Station Dr, KY 1661, Ravens Lane, Forest Trails, Sherwood
-  Drive, Greenbriar St, Pinehurst St, Hillcrest St, Steele Road, High Country
-  Hills.  When service is restored there will be a boil water advisory.
+date: 2022-07-27T14:27:38.686Z
+description: "BOIL WATER ADVISORY LIFTED for Old KY 7 South, School House
+  Hollow, Pine Ridge Drive, Walnut Lane, Little Sandy Acres, Service Station Dr,
+  KY 1661, Ravens Lane, Forest Trails, Sherwood Drive, Greenbriar St, Pinehurst
+  St, Hillcrest St, Steele Road, High Country Hills.  "
 ---
-There will be a Service Outage scheduled for 10:00 am on Monday, July 25th for Old KY 7 South, School House Hollow, Pine Ridge Drive, Walnut Lane, Little Sandy Acres, Service Station Dr, KY 1661, Ravens Lane, Forest Trails, Sherwood Drive, Greenbriar St, Pinehurst St, Hillcrest St, Steele Road, High Country Hills.  When service is restored there will be a boil water advisory.
+BOIL WATER ADVISORY LIFTED for Old KY 7 South, School House Hollow, Pine Ridge Drive, Walnut Lane, Little Sandy Acres, Service Station Dr, KY 1661, Ravens Lane, Forest Trails, Sherwood Drive, Greenbriar St, Pinehurst St, Hillcrest St, Steele Road, High Country Hills.  When service is restored there will be a boil water advisory.
 
-[See Map](https://arcg.is/1DjK0C0)
+[](https://arcg.is/1DjK0C0)
