@@ -1,12 +1,9 @@
 ---
-title: SCHEDULED OUTAGE/BOIL WATER 8/18/22 @9:30
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2022-08-17T18:49:33.063Z
-description: There will be a scheduled outage August 18th at 9:30 AM for North
-  Hwy 7, Long Branch, Ambassador Dr, Davis Rd, Tygarts Creek Rd, Princess Drive,
-  Iron Hill, Clearview, and Finch Lane.  When service is restored there will be
-  a boil water advisory.
+date: 2022-08-22T13:22:43.093Z
+description: "BOIL WATER ADVISORY LIFTED for North Hwy 7, Long Branch,
+  Ambassador Dr, Davis Rd, Tygarts Creek Rd, Princess Drive, Iron Hill,
+  Clearview, and Finch Lane. "
 ---
-There will be a scheduled outage August 18th at 9:30 AM for North Hwy 7, Long Branch, Ambassador Dr, Davis Rd, Tygarts Creek Rd, Princess Drive, Iron Hill, Clearview, and Finch Lane.  When service is restored there will be a boil water advisory.
-
-[See Map](https://arcg.is/yXbmb)
+BOIL WATER ADVISORY LIFTED for North Hwy 7, Long Branch, Ambassador Dr, Davis Rd, Tygarts Creek Rd, Princess Drive, Iron Hill, Clearview, and Finch Lane.
