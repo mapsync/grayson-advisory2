@@ -1,9 +1,9 @@
 ---
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2022-10-18T14:10:57.520Z
-description: A Boil Water Advisory has been issued for Wilcox Road.
+date: 2022-10-20T15:29:22.512Z
+description: Boil Water Advisory has been LIFTED for Wilcox Road.
 ---
-A Boil Water Advisory has been issued for Wilcox Road.
+Boil Water Advisory has been LIFTED for Wilcox Road.
 
-[See Map](https://arcg.is/0HXuLO)
+[](https://arcg.is/0HXuLO)
