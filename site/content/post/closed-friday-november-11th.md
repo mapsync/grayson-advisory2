@@ -1,7 +1,7 @@
 ---
 title: CLOSED FRIDAY, NOVEMBER 11TH, VETERAN'S DAY
-draft: true
-date: 2022-11-04T17:22:28.439Z
+draft: false
+date: 2022-11-09T15:47:55.277Z
 description: The GUC office will be closed Friday, November 11th in observance
   of Veteran's Day.
 image: /img/vet-day-flag.jpg
