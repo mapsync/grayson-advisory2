@@ -1,10 +1,10 @@
 ---
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2022-11-21T15:48:21.605Z
-description: A boil water advisory has been issued for 401 W Main St Apts,
-  Embassy Dr., Kacie Court
+date: 2022-11-23T15:54:25.292Z
+description: Boil water advisory has been LIFTED for 401 W Main St Apts, Embassy
+  Dr., Kacie Court
 ---
-A boil water advisory has been issued for 401 W Main St Apts, Embassy Dr., Kacie Court.
+Boil water advisory has been LIFTED for 401 W Main St Apts, Embassy Dr., Kacie Court.
 
-[SEE MAP](https://arcg.is/1bCifu)
+[](https://arcg.is/1bCifu)
