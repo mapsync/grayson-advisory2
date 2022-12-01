@@ -1,10 +1,10 @@
 ---
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY LIFTED
 draft: false
 date: 2022-11-29T16:09:22.070Z
-description: A Boil Water Advisory has been issued for Sandy Hill Dr., Service
+description: Boil Water Advisory has been LIFTED for Sandy Hill Dr., Service
   Station Drive, & Jackson Rd.
 ---
-A Boil Water Advisory has been issued for Sandy Hill Dr., Service Station Drive, & Jackson Rd.
+A Boil Water Advisory has been LIFTED for Sandy Hill Dr., Service Station Drive, & Jackson Rd.
 
-[See Map](https://arcg.is/1rGLqW2)
+[](https://arcg.is/1rGLqW2)
