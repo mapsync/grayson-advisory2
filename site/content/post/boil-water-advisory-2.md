@@ -1,7 +1,7 @@
 ---
 title: Boil Water Advisory LIFTED
 draft: false
-date: 2022-12-30T22:05:49.068Z
+date: 2023-01-04T15:47:33.951Z
 description: "BOIL WATER LIFTED for Campbell Farm Estates,Valleyview
   Subdivision,Beckwith Branch Subdivision,Damron Mayo, Tark Hill Road, US 60
   East Plantations Subdivision, McDavid Blvd, Damron Branch, Bucksaw Junction,
