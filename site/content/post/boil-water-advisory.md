@@ -1,7 +1,8 @@
 ---
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY LFITED
 draft: false
-date: 2023-04-18T20:30:20.969Z
-description: A Boil Water Advisory has been issued for Cherry Tree Lane and Cherrywood Lane.
+date: 2023-04-20T14:54:43.180Z
+description: " Boil Water Advisory has been LIFTED for Cherry Tree Lane and
+  Cherrywood Lane."
 ---
-A Boil Water Advisory has been issued for Cherry Tree Lane and Cherrywood Lane.
+ Boil Water Advisory has been LIFTED for Cherry Tree Lane and Cherrywood Lane.
