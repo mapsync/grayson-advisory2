@@ -1,10 +1,8 @@
 ---
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2023-05-09T19:18:00.724Z
-description: A boil water advisory has been issued for Ky Ave, Kristy Drive,
+date: 2023-05-13T14:41:32.100Z
+description: Boil water advisory has been LIFTED for Ky Ave, Kristy Drive,
   Townsend Ave, and the last three houses on Bradford St.
 ---
-A boil water advisory has been issued for Ky Ave, Kristy Drive, Townsend Ave, and the last three houses on Bradford St.
-
-[See map](https://arcg.is/1GG9zu)
+Boil water advisory has been LIFTED for Ky Ave, Kristy Drive, Townsend Ave, and the last three houses on Bradford St
