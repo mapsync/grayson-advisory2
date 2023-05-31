@@ -1,7 +1,7 @@
 ---
-title: Boil Water Lifted
+title: BOIL WATER ADVISORY
 draft: false
-date: 2023-05-20T15:09:29.550Z
-description: Boil Water Advisory lifted for Robin Run and Clay Camp Road
+date: 2023-05-31T17:02:10.063Z
+description: Boil Water Advisory for Robin Run and Clay Camp Road
 ---
-Boil Water Advisory lifted for Robin Run and Clay Camp Road
+Boil Water Advisory for Robin Run and Clay Camp Road
