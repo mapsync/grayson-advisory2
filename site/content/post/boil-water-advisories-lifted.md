@@ -1,7 +1,7 @@
 ---
-title: BOIL WATER ADVISORIES LIFTED
+title: ALL BOIL WATER ADVISORIESHAVE BEEN LIFTED
 draft: false
-date: 2023-08-10T16:05:33.903Z
-description: Boil Water Advisories Lifted
+date: 2023-08-12T15:05:52.524Z
+description: All Boil Water Advisories Have Been Lifted
 ---
 There are  currently **NO** Boil Water Advisories in effect.
