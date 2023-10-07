@@ -1,6 +1,6 @@
 ---
 title: SCHEDULED OUTAGE
-draft: false
+draft: true
 date: 2023-10-03T19:21:46.079Z
 description: Scheduled Outage
 ---
