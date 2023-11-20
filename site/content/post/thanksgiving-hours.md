@@ -6,4 +6,4 @@ description: The GUC office will close at noon on Wednesday, November 22 and
   re-open at 8 am Monday November 27th.
 image: /img/happy-thanksgiving.jpg
 ---
-The Grayson Utilities Commission office will close at noon on Wednesday, November 22 and re-open at 8 am Monday, November 27th.
+The Grayson Utilities Commission office will close at noon on Wednesday, November 22 and re-open at 8 am Monday, November 27th. Have a happy, blessed, and safe Thanksgiving!
