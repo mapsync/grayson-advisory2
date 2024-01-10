@@ -1,6 +1,6 @@
 ---
 title: CLOSED MONDAY JANUARY 15TH
-draft: true
+draft: false
 date: 2024-01-10T17:58:27.989Z
 description: |-
   GUC office will be closed  Monday, January 15th
