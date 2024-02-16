@@ -1,0 +1,7 @@
+---
+title: ALL BOIL WATER ADVISORIES HAVE BEEN LIFTED
+draft: false
+date: 2024-02-16T19:09:43.167Z
+description: There are currently NO BOIL WATER ADVISORIES IN EFFECT.
+---
+There are currently NO BOIL WATER ADVISORIES IN EFFECT.
