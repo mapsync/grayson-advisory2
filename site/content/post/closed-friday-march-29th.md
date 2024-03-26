@@ -1,6 +1,6 @@
 ---
 title: CLOSED FRIDAY, MARCH 29TH
-draft: true
+draft: false
 date: 2024-03-26T13:38:27.621Z
 description: The GUC office will be closed Friday, March 29th.
 image: /img/easter.jpg
