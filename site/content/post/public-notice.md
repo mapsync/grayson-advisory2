@@ -3,6 +3,7 @@ title: PUBLIC NOTICE
 draft: false
 date: 2024-04-04T14:00:18.351Z
 description: PUBLIC NOTICE
+image: /img/waternainflush.jpg
 ---
 The Grayson Utilities Commission will flush Hydrants starting on Monday, April 8th through April 30th. All areas will be affected.
 
