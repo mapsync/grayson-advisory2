@@ -1,8 +1,8 @@
 ---
-title: BOIL WATER ADISORY
+title: BOIL WATER ADISORY LIFTED
 draft: false
-date: 2024-04-16T17:26:52.486Z
-description: A boil water advisory has been issued for Sunset Hill Subdivision,
-  Radio Tower Hill, and all side roads.
+date: 2024-04-18T16:37:54.678Z
+description: The boil water advisory has been LIFTED for Sunset Hill
+  Subdivision, Radio Tower Hill, and all side roads.
 ---
-A Boil Water Advisory has been issued for Sunset Hill Subdivision, Radio Tower Hill, and all side roads.
+The boil water advisory has been LIFTED for Sunset Hill Subdivision, Radio Tower Hill, and all side roads.
