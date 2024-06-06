@@ -1,7 +1,7 @@
 ---
 title: Contact Information Update
 draft: false
-date: 2021-06-24T14:01:40.595Z
+date: 2024-06-06T13:27:53.454Z
 description: "Please contact the GUC office to make sure we have your most
   recent landline and or cell phone number on file. "
 ---
