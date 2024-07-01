@@ -1,7 +1,7 @@
 ---
 title: CLOSED THURSDAY, JULY 4TH
-draft: true
-date: 2024-06-26T14:14:39.038Z
+draft: false
+date: 2024-07-01T18:19:53.123Z
 description: GUC office will be closed Thursday, July 4th.
 image: /img/4th-of-july.jpg
 ---
