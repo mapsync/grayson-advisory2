@@ -1,7 +1,7 @@
 ---
-title: Boil Water Advisory
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2024-07-30T12:12:23.260Z
-description: A Boil Water Advisory in effect for Corral Park Subdivision
+date: 2024-08-02T18:42:57.092Z
+description: Boil Water Advisory LIFTED for Corral Park Subdivision
 ---
-There is a Boil Water Advisory in effect for all of Corral Park Subdivison until further notice.
+ Boil Water Advisory has been LIFTED for all of Corral Park Subdivision.
