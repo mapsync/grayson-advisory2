@@ -1,7 +1,7 @@
 ---
-title: Boil Water Advisory
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2024-08-06T14:24:37.826Z
-description: Boil Water Advisory Church Street and Dixie Street
+date: 2024-08-08T18:25:54.244Z
+description: Boil Water Advisory LIFTED Church Street and Dixie Street
 ---
-There is a Boil Water Advisory for Church Street and Dixie Street until further notice.
+The Boil Water Advisory has  been LIFTED for Church Street and Dixie Street .
