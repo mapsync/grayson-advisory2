@@ -4,4 +4,4 @@ draft: false
 date: 2024-09-27T16:17:21.074Z
 description: OUTAGE ON HIGHWAY 1 SOUTH
 ---
-Grayson Utilities Maintenance crew is working on a line break on South Highway 1.  All Hitchins area affected will be on a boil water advisory when service is restored.
+There is an outage for Ky1 South, Bucksaw Junction, Old Ky 773, Fairview Hill, Coal Camps, Campbell Hollow, Burton Meadows, Clay Camps, & Sunny Brook.  When service is restored there will be a boil water in effect.
