@@ -1,7 +1,7 @@
 ---
 title: BOIL WATER LIFTED
 draft: false
-date: 2024-10-02T14:56:03.667Z
-description: BOIL WATER ADVISORY LIFTED FOR HIGHWAY 1 SOUTH
+date: 2024-10-18T14:46:03.462Z
+description: Boil Water Advisory Lifted US 60 E and all side roads.
 ---
-Boil water has been lifted for Ky 1 South, Bucksaw Junction, Old Ky 773, Fairview Hill, Coal Camps, Campbell Hollow, Burton Meadows, Clay Camps, & Sunny Brook.
+The Boil Water Advisory has been lifted for US 60 E and all side roads.
