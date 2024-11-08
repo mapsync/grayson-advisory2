@@ -6,4 +6,4 @@ description: |
   GUC office will be closed Monday, November 11, 2024 
 image: /img/veteran-s-day-clip.jpg
 ---
-Grayson Utilities Commission office will be closed Monday, November 11, 2024 in honor of Veteran's Day.  Thank you Veteran's for your service.
+Grayson Utilities Commission office will be closed Monday, November 11, 2024 in honor of Veteran's Day.  Thank you Veterans for your service.
