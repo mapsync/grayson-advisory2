@@ -1,9 +1,8 @@
 ---
-title: Boil Water Advisory
+title: Boil Water Advisory LIFTED
 draft: false
-date: 2025-01-14T16:47:49.762Z
-description: A Boil Water Advisory has been issued from Landsdowne Ave from 3rd
-  Street to College Hill, Shady Lane, North Court Street and Maplewood Drive
-  until further notice.
+date: 2025-01-16T19:16:00.016Z
+description: The Boil Water Advisory has been LIFTED for Landsdowne Ave from 3rd
+  Street to College Hill, Shady Lane, North Court Street and Maplewood Drive.
 ---
-A Boil Water Advisory has been issued from Landsdowne Ave from 3rd Street to College Hill, Shady Lane, North Court Street and Maplewood Drive until further notice.
+The Boil Water Advisory has been LIFTED for Landsdowne Ave from 3rd Street to College Hill, Shady Lane, North Court Street and Maplewood Drive.
