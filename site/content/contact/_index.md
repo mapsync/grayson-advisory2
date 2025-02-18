@@ -14,7 +14,7 @@ contact_entries:
       http://www.graysonutilities.com
   - heading: Information
     text: >
-      Willis Kelley, Commissioner Chairman  
+      Willis Kelley, Commissioner   
 
 
       Ramona Salyer, Commissioner  
@@ -26,7 +26,7 @@ contact_entries:
       Bob James, Commissioner  
 
 
-      Mayor George Steele, Commissioner  
+      Mayor Troy Combs, Commissioner  
 
 
       Gerald W. Haney, Utilities Superintendent  
@@ -44,7 +44,7 @@ contact_entries:
       Email: billingclerk@graysonutilities.com  
 
 
-      Tally Harris, Head Water Treatment Plant Operator  
+      Roy Seagraves, Head Water Treatment Plant Operator  
 
       199 Water Plant Road  
 
