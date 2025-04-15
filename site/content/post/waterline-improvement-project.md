@@ -1,8 +1,8 @@
 ---
 title: WATERLINE IMPROVEMENT PROJECT
-draft: true
+draft: false
 date: 2025-04-15T18:51:15.573Z
-description: Water Line Improvement Project Start Date Announcemment
+description: Water Line Improvement Project Start Date Announcement
 ---
 The Grayson Utilities Commission's Cast Iron Water line Replacement project will begin on Monday, April 21, 2025.
 
