@@ -1,5 +1,5 @@
 ---
-title: WATERLINE IMPROVEMENT PROJECT
+title: WATER LINE IMPROVEMENT PROJECT
 draft: false
 date: 2025-04-15T18:51:15.573Z
 description: Water Line Improvement Project Start Date Announcement
