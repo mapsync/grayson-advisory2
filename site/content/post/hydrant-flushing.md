@@ -1,8 +1,9 @@
 ---
 title: "HYDRANT FLUSHING "
-draft: true
-date: 2025-04-21T17:08:52.483Z
+draft: false
+date: 2025-04-24T12:38:07.382Z
 description: Hydrant Flushing will begin on Monday, April 28th through May 26th.
+image: /img/waternainflush.jpg
 ---
 The Grayson Utilities will flush fire Hydrants starting on Monday, April 28th through May 26th 2025. All areas will be affected.
 
