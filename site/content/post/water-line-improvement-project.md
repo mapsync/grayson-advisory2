@@ -1,6 +1,6 @@
 ---
 title: WATER LINE IMPROVEMENT PROJECT
-draft: true
+draft: false
 date: 2025-04-25T19:34:44.682Z
 description: Water Line Improvement Project Schedule for Monday April 28th
 image: /img/waterline-project-map.jpg
