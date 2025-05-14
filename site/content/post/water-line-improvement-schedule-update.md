@@ -4,6 +4,7 @@ draft: false
 date: 2025-05-14T19:12:43.052Z
 description: |
   Water Line Improvement Schedule Update for Thursday, May 15th.
+image: /img/waterline-project-map.jpg
 ---
 Thursday, May 15th, the waterline work will continue at 8 AM at the intersection of 2nd Street & Landsdowne Ave. This intersection will be closed to traffic. The water service will remain on during this time.
 
