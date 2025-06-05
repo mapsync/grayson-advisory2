@@ -5,6 +5,7 @@ date: 2025-06-04T19:48:07.799Z
 description: June 5th,  West 2nd Street will be closed to traffic beginning at
   the intersection of North Court Street to North HIll Street. No water service
   outages are planned.
+image: /img/waterline-project-map.jpg
 ---
 Thursday, June 5th,  West 2nd Street will be closed to traffic beginning at the intersection of North Court Street to North HIll Street. No water service outages are planned.
 
