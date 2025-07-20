@@ -1,8 +1,8 @@
 ---
 title: WATER LINE IMPROVEMENT PROJECT SCHEDULE MONDAY JULY 21, 2025
-draft: true
-date: 2025-07-18T13:06:04.003Z
-description: >+
+draft: false
+date: 2025-07-20T11:19:12.908Z
+description: >
   On Monday, July 21st, at 12:00, Noon the water service will be off at the
   Carter County Courthouse, the 400 Block of West 2nd Street, 211-308 Malone
   Lane, Pine Street, Hall Street, and North Hill Street to make a tie-in
