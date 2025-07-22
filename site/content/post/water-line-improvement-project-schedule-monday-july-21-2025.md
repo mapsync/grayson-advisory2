@@ -1,6 +1,6 @@
 ---
 title: WATER LINE IMPROVEMENT PROJECT SCHEDULE MONDAY JULY 21, 2025
-draft: false
+draft: true
 date: 2025-07-20T11:19:12.908Z
 description: >
   On Monday, July 21st, at 12:00, Noon the water service will be off at the
