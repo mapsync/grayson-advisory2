@@ -1,8 +1,7 @@
 ---
-title: Boil Water Advisory
+title: Boil Water Advisory LIFTED
 draft: false
-date: 2025-09-22T13:54:24.226Z
-description: "A Boil Water Advisory has been issued for 221-858 Falls Lane until
-  further notice. "
+date: 2025-09-26T13:08:56.412Z
+description: "A Boil Water Advisory has been LIFTED for 221-858 Falls Lane "
 ---
-A Boil Water Advisory has been issued for 221-858 Falls Lane until further notice.
+A Boil Water Advisory has been LIFTED for 221-858 Falls Lane
