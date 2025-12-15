@@ -1,7 +1,7 @@
 ---
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2025-12-08T19:04:34.330Z
-description: BOIL WATER ADVISORY
+date: 2025-12-15T14:30:18.569Z
+description: BOIL WATER ADVISORY LIFTED
 ---
-A Boil Water Advisory has been issued for Bucksaw Junction Subdivision until further notice.
+The Boil Water Advisory has been lifted for Bucksaw Junction Subdivision.
