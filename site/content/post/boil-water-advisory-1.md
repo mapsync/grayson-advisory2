@@ -1,7 +1,7 @@
 ---
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2025-12-18T13:10:41.703Z
-description: BOIL WATER ADVISORY
+date: 2025-12-23T17:35:00.149Z
+description: BOIL WATER ADVISORY LIFTED
 ---
-A Boil Water advisory has been issued for 504 - 609 West Main Street and all of Cardinal Drive until further notice.
+The  Boil Water advisory has been LIFTED for 504 - 609 West Main Street and all of Cardinal Drive
