@@ -1,0 +1,15 @@
+---
+title: "GRAYSON SANITATION "
+draft: false
+date: 2026-01-26T22:57:00.682Z
+description: GARBAGE PICKUP
+---
+No Garbage Pickup for Tuesday, Jan 27th.
+
+
+
+After much consideration we have decided to cancel our routes again for one more day. The temperature in the morning is going to be extremely dangerous and this will keep our trucks out of the way of road crews who are trying so hard to clear our roadways.
+
+
+
+We know this is not an ideal situation. We are looking in to the best scenario going forward when we do start back. There will be some areas that we still will not be able to get.When we can make it to you we will get you cleaned up. Please do not worry about having excessive trash. Safety is our only concern at this moment, not bag limits. We will update everyone again tomorrow so please help us get the word out to as many as we can. Please Like, Share and if youre one of our customers check to make sure you are Following us on this page. We appreciate everyone’s patience with us during this time.
