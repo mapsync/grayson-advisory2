@@ -1,7 +1,7 @@
 ---
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2026-07-13T16:54:00.704Z
-description: BOIL WATER ADVISORY
+date: 2026-07-15T15:59:10.543Z
+description: BOIL WATER ADVISORY LIFTED
 ---
-A BOIL WATER ADVISORY has been issued for Walnut Drive, 315 Bradford Street to 401 Bradford Street, Townsend Avenue, Kristy Drive, and Kentucky Avenue.
+ BOIL WATER ADVISORY has been LIFTED for Walnut Drive, 315 Bradford Street to 401 Bradford Street, Townsend Avenue, Kristy Drive, and Kentucky Avenue.
