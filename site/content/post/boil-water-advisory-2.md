@@ -1,7 +1,0 @@
----
-title: BOIL WATER ADVISORY
-draft: false
-date: 2026-07-20T13:25:09.961Z
-description: BOIL WATER ADVISORY
----
-The Boil Water Advisory has been LIFTED for 2728 US 60 East to the end of the line including all side roads. Including Woodland Court, Tark Hill Road, Cribbs Hill, Sunflower Drive, Lilac Lane, Lewis Lane and Chestnut Lane.
