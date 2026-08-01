@@ -1,0 +1,7 @@
+---
+title: "Boil Water Advisory "
+draft: false
+date: 2026-08-01T19:48:52.727Z
+description: ALL BOIL WATER ADVISORIES HAVE BEEN LIFTED.
+---
+ALL BOIL WATER ADVISORIES HAVE BEEN LIFTED.
